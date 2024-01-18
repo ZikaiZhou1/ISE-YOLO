@@ -1,0 +1,14 @@
+transformer
+current transformer
+oil conservator
+insulator
+post insulator
+tube
+switch
+clamp
+circuit breaker
+potential transformer
+lightning arrester
+wave trap
+capacitor
+reactor
